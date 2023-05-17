@@ -1,0 +1,17 @@
+C:\Users\Simon\source\repos\Listbox réseaux\Listbox réseaux\bin\Debug\net6.0-windows\Listbox réseaux.exe
+C:\Users\Simon\source\repos\Listbox réseaux\Listbox réseaux\bin\Debug\net6.0-windows\Listbox réseaux.deps.json
+C:\Users\Simon\source\repos\Listbox réseaux\Listbox réseaux\bin\Debug\net6.0-windows\Listbox réseaux.runtimeconfig.json
+C:\Users\Simon\source\repos\Listbox réseaux\Listbox réseaux\bin\Debug\net6.0-windows\Listbox réseaux.dll
+C:\Users\Simon\source\repos\Listbox réseaux\Listbox réseaux\bin\Debug\net6.0-windows\Listbox réseaux.pdb
+C:\Users\Simon\source\repos\Listbox réseaux\Listbox réseaux\obj\Debug\net6.0-windows\Listbox réseaux.vbproj.AssemblyReference.cache
+C:\Users\Simon\source\repos\Listbox réseaux\Listbox réseaux\obj\Debug\net6.0-windows\Listbox_réseaux.Form1.resources
+C:\Users\Simon\source\repos\Listbox réseaux\Listbox réseaux\obj\Debug\net6.0-windows\Listbox réseaux.vbproj.GenerateResource.cache
+C:\Users\Simon\source\repos\Listbox réseaux\Listbox réseaux\obj\Debug\net6.0-windows\Listbox réseaux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\source\repos\Listbox réseaux\Listbox réseaux\obj\Debug\net6.0-windows\Listbox réseaux.AssemblyInfoInputs.cache
+C:\Users\Simon\source\repos\Listbox réseaux\Listbox réseaux\obj\Debug\net6.0-windows\Listbox réseaux.AssemblyInfo.vb
+C:\Users\Simon\source\repos\Listbox réseaux\Listbox réseaux\obj\Debug\net6.0-windows\Listbox réseaux.vbproj.CoreCompileInputs.cache
+C:\Users\Simon\source\repos\Listbox réseaux\Listbox réseaux\obj\Debug\net6.0-windows\Listbox réseaux.dll
+C:\Users\Simon\source\repos\Listbox réseaux\Listbox réseaux\obj\Debug\net6.0-windows\refint\Listbox réseaux.dll
+C:\Users\Simon\source\repos\Listbox réseaux\Listbox réseaux\obj\Debug\net6.0-windows\Listbox réseaux.pdb
+C:\Users\Simon\source\repos\Listbox réseaux\Listbox réseaux\obj\Debug\net6.0-windows\Listbox réseaux.genruntimeconfig.cache
+C:\Users\Simon\source\repos\Listbox réseaux\Listbox réseaux\obj\Debug\net6.0-windows\ref\Listbox réseaux.dll
